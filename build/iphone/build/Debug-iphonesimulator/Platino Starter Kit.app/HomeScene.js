@@ -1,0 +1,1 @@
+/Users/johngould/Documents/Titanium_Studio_Workspace/Platino Starter Kit/Resources/iphone/HomeScene.js
